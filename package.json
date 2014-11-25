@@ -1,7 +1,7 @@
 {
   "name": "locale-detector",
   "version": "1.0.0",
-  "description": "",
+  "description": "Detects locales from an Accept-Language string, against a list of known locales.",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -9,9 +9,17 @@
   "scripts": {
     "test": "node test"
   },
-  "author": "",
+  "author": "Kory Nunn <knunn187@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "grape": "^1.0.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KoryNunn/locale-detector.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KoryNunn/locale-detector/issues"
+  },
+  "homepage": "https://github.com/KoryNunn/locale-detector"
 }
