@@ -1,6 +1,6 @@
 {
   "name": "locale-detector",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Detects locales from an Accept-Language string, against a list of known locales.",
   "main": "index.js",
   "directories": {
